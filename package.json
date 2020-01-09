@@ -1,0 +1,24 @@
+{
+  "name": "deep-cosmos-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiuguanglin/deep-cosmos-shell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiuguanglin/deep-cosmos-shell/issues"
+  },
+  "homepage": "https://github.com/qiuguanglin/deep-cosmos-shell#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
